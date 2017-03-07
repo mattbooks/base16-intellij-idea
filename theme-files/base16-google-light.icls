@@ -41,6 +41,12 @@
         <option name="FOREGROUND" value="A36AC7" />
       </value>
     </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="FBA922" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="3971ED" />
